@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.nav-logo {
+  width: 70px;
+  height: auto;
+}
+
+.navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.3rem;
+}
+.navbar-brand h1.title {
+  font-size: 24px;
+  margin: 0;
+  padding: 0 0 5px;
+}
+
+.title {
+  font-family: "Fredoka One", cursive;
+}
+
+/*# sourceMappingURL=main.css.map */
